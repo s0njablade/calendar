@@ -3,5 +3,5 @@ var event = {year: 2018,
             day: 13, 
             title: "Title",
             description: "Description", 
-            address: "52 Wallaby Way"};
+            address: "P Sherman 52 Wallaby Way, Sydney, Australia"};
 
