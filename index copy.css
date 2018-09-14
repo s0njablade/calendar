@@ -1,0 +1,40 @@
+.navbar {
+    background-color: #0d47a1;
+}
+
+.calendar {
+    background-color: #42a5f5;
+    width: 100%;
+    height: 1000px;
+    padding-top: 20px;
+}
+
+.months {
+    background-color: #1e88e5;
+    margin: auto;
+    width: 95%;
+    height: 700px;
+    padding-top: 20px;
+}
+
+.days {
+    background-color: #2962ff;
+    margin: auto;
+    width: 95%;
+    height: 500px;
+}
+
+.post {
+    margin: auto;
+    padding-top: 50px;
+    width: 50%;
+}
+
+.postcard {
+    margin-top: 0px;
+    margin-bottom:0px;
+}
+
+#blue-text {
+    color: blue;
+}
